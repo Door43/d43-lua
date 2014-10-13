@@ -10,6 +10,10 @@
 
   * [[lua:obs|Open Bible Stories (lua)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lua|d43-lua repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lua/archive/master.zip|d43-lua.zip]]
+
 **Recent Changes**
 {{changes>ns = lua}}
 
