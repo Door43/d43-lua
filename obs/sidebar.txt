@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = lua:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:lua:obs:status}}
-
